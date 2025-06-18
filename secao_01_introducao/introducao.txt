@@ -1,0 +1,1 @@
+Na seção 01, foi apresentado todo o conteúdo do curso, recursos para downloads e os conceitos básicos sobre banco de dados e SQL.
